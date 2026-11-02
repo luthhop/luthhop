@@ -47,4 +47,4 @@ Também uso Power BI, Excel e Codex no dia a dia.
 
 ---
 
-<sub>[LinkedIn](https://www.linkedin.com/in/lucas-santos-br/) · SEU-EMAIL-AQUI · feito com dados, código e um pouco de IA</sub>
+<sub>[LinkedIn](https://www.linkedin.com/in/lucas-santos-br/) · lucaslimadossantos1206@gmail.com · feito com dados, código e um pouco de IA</sub>
